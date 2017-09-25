@@ -1,2 +1,2 @@
 # best-repo-ever
-Modification from branch 1
+This is from branch 2
